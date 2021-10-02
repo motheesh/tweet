@@ -1,0 +1,9 @@
+# Ignoring media files
+*.mp4
+*.png
+
+#ignoring virtual env packages
+/tenv
+Videos/*.mp4
+/Videos/*.mp4
+rough_work/movie/*.mp4

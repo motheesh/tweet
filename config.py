@@ -1,0 +1,8 @@
+LOG_PATH="./logs"
+AUDIO_PATH="audio/funny/funny.mp3"
+FINAL_VIDEO_PATH="Videos"
+EDIT_VIDEO_PATH="rough_work/movie"
+EDIT_PHOTO_PATH="rough_work/screenshot"
+FINAL_PHOTO_PATH="screenshot/photo"
+TREND_URL="https://twitter.com/explore/tabs/trending"
+SEARCH_URL="https://twitter.com/search?q=QUERY&src=typed_query"

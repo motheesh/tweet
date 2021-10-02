@@ -1,0 +1,688 @@
+2021-10-02 15:04:06,779 root - INFO:Starting the main app
+2021-10-02 15:04:06,779 root - INFO:Ending the main app
+2021-10-02 15:08:08,578 root - INFO:Starting the main app
+2021-10-02 15:08:08,578 root - INFO:Ending the main app
+2021-10-02 16:41:12,629 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 16:41:12,630 WDM - INFO:
+
+2021-10-02 16:41:12,634 WDM - INFO:====== WebDriver manager ======
+2021-10-02 16:41:12,667 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 16:41:12,668 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 16:41:12,776 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 16:41:14,771 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 16:41:14,772 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 16:41:16,722 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 16:41:16,725 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 16:41:18,929 root - INFO:WEBSCRAPPER: Ended closing chrome driver
+2021-10-02 16:42:51,254 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 16:42:51,254 WDM - INFO:
+
+2021-10-02 16:42:51,256 WDM - INFO:====== WebDriver manager ======
+2021-10-02 16:42:51,291 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 16:42:51,292 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 16:42:51,374 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 16:42:53,485 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 16:42:53,486 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 16:42:54,681 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 16:42:54,683 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 16:42:56,932 root - INFO:WEBSCRAPPER: Ended closing chrome driver
+2021-10-02 16:43:47,458 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 16:43:47,458 WDM - INFO:
+
+2021-10-02 16:43:47,461 WDM - INFO:====== WebDriver manager ======
+2021-10-02 16:43:47,490 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 16:43:47,492 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 16:43:47,582 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 16:43:49,681 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 16:43:49,683 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 16:43:51,640 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 16:43:51,642 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 16:43:53,935 root - INFO:WEBSCRAPPER: Ended closing chrome driver
+2021-10-02 16:53:26,700 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 16:53:26,701 WDM - INFO:
+
+2021-10-02 16:53:26,702 WDM - INFO:====== WebDriver manager ======
+2021-10-02 16:53:26,745 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 16:53:26,746 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 16:53:26,847 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 16:53:29,103 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 16:53:30,338 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 16:53:31,597 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 16:53:31,598 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 16:53:33,775 root - INFO:WEBSCRAPPER: Ended closing chrome driver
+2021-10-02 16:53:53,922 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 16:53:53,922 WDM - INFO:
+
+2021-10-02 16:53:53,924 WDM - INFO:====== WebDriver manager ======
+2021-10-02 16:53:53,957 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 16:53:53,959 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 16:53:54,055 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 16:53:56,020 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 16:54:02,439 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 16:54:04,175 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 16:54:04,178 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 16:54:04,662 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 16:54:04,665 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 16:54:05,332 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 16:54:05,334 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 16:54:06,236 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 16:54:06,239 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 16:54:06,770 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 16:54:06,774 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 16:54:06,776 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 16:54:06,777 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 16:54:09,212 root - INFO:WEBSCRAPPER: Ended closing chrome driver
+2021-10-02 16:55:12,903 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 16:55:12,903 WDM - INFO:
+
+2021-10-02 16:55:12,907 WDM - INFO:====== WebDriver manager ======
+2021-10-02 16:55:12,942 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 16:55:12,943 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 16:55:13,029 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 16:55:15,286 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 16:55:22,276 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 16:55:24,598 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 16:55:24,600 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 16:55:24,907 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 16:55:24,910 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 16:55:25,726 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 16:55:25,746 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 16:55:26,358 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 16:55:26,360 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 16:55:26,970 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 16:55:26,974 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 16:55:26,977 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 16:55:26,979 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 16:55:29,909 root - INFO:WEBSCRAPPER: Ended closing chrome driver
+2021-10-02 17:22:52,904 root - INFO:WEBSCRAPPER: started Load_and_save_TrendingVideos function
+2021-10-02 17:22:52,906 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 17:22:52,907 WDM - INFO:
+
+2021-10-02 17:22:52,910 WDM - INFO:====== WebDriver manager ======
+2021-10-02 17:22:52,943 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 17:22:52,944 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 17:22:53,041 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 17:22:55,067 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 17:22:55,069 root - INFO:WEBSCRAPPER: started getting Trending Videos
+2021-10-02 17:23:02,076 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 17:23:04,309 root - INFO:WEBSCRAPPER: Error while getting Trending Videos object of type 'NoneType' has no len()
+2021-10-02 17:23:04,311 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 17:23:07,014 root - INFO:WEBSCRAPPER: Ended closing chrome driver successfully
+2021-10-02 17:23:07,015 root - INFO:WEBSCRAPPER: Ended Load_and_save_TrendingVideos function
+2021-10-02 17:25:44,195 root - INFO:WEBSCRAPPER: started Load_and_save_TrendingVideos function
+2021-10-02 17:25:44,197 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 17:25:44,197 WDM - INFO:
+
+2021-10-02 17:25:44,201 WDM - INFO:====== WebDriver manager ======
+2021-10-02 17:25:44,239 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 17:25:44,241 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 17:25:44,390 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 17:25:46,701 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 17:25:46,702 root - INFO:WEBSCRAPPER: started getting Trending Videos
+2021-10-02 17:25:53,484 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 17:25:56,377 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 17:25:56,381 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 17:25:56,384 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 17:26:02,811 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 17:26:04,749 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:26:15,716 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:26:15,717 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:26:21,168 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:26:21,169 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:26:26,324 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:26:26,326 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:26:30,990 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:27:41,555 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 17:27:41,557 root - INFO:WEBSCRAPPER: Ended getting Trending Videos
+2021-10-02 17:27:41,559 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 17:27:44,064 root - INFO:WEBSCRAPPER: Ended closing chrome driver successfully
+2021-10-02 17:27:44,067 root - INFO:WEBSCRAPPER: Ended Load_and_save_TrendingVideos function
+2021-10-02 17:43:21,324 root - INFO:{prefix} :Starting the main app
+2021-10-02 17:43:21,326 root - INFO:WEBSCRAPPER: started Load_and_save_TrendingVideos function
+2021-10-02 17:43:21,327 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 17:43:21,328 WDM - INFO:
+
+2021-10-02 17:43:21,329 WDM - INFO:====== WebDriver manager ======
+2021-10-02 17:43:21,375 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 17:43:21,375 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 17:43:21,478 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 17:43:27,647 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 17:43:27,649 root - INFO:WEBSCRAPPER: started getting Trending Videos
+2021-10-02 17:43:34,740 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 17:43:37,326 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 17:43:37,328 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 17:43:37,330 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 17:43:37,332 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 17:43:37,333 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 17:43:37,335 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 17:43:37,339 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 17:43:37,341 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 17:43:37,345 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 17:43:43,605 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 17:43:43,611 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 17:43:43,614 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 17:43:43,621 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 17:43:43,625 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 17:43:43,628 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 17:43:43,631 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 17:43:46,083 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:43:52,596 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:43:52,599 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:43:59,744 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:43:59,746 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:44:06,416 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:44:06,418 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:44:12,528 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:44:12,531 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 17:44:22,695 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 17:44:22,697 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 17:44:40,718 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 17:44:40,721 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 17:44:40,725 root - INFO:WEBSCRAPPER: Ended getting Trending Videos
+2021-10-02 17:44:40,732 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 17:44:43,496 root - INFO:WEBSCRAPPER: Ended closing chrome driver successfully
+2021-10-02 17:44:43,498 root - INFO:WEBSCRAPPER: Ended Load_and_save_TrendingVideos function
+2021-10-02 17:44:43,500 root - INFO:{prefix} :Ending the main app
+2021-10-02 17:50:06,470 root - INFO:{prefix} :Starting the main app
+2021-10-02 17:50:06,471 root - INFO:WEBSCRAPPER: started Load_and_save_TrendingVideos function
+2021-10-02 17:50:06,473 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 17:50:06,473 WDM - INFO:
+
+2021-10-02 17:50:06,474 WDM - INFO:====== WebDriver manager ======
+2021-10-02 17:50:06,511 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 17:50:06,511 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 17:50:06,616 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 17:50:08,975 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 17:50:08,978 root - INFO:WEBSCRAPPER: started getting Trending Videos
+2021-10-02 17:50:15,648 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 17:50:18,389 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 17:50:18,391 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 17:50:18,394 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 17:50:18,396 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 17:50:18,399 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 17:50:18,402 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 17:50:18,404 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 17:50:18,406 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 17:50:18,409 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 17:50:24,646 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 17:50:24,655 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 17:50:24,659 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 17:50:24,668 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 17:50:24,672 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 17:50:24,679 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 17:50:24,688 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 17:50:27,111 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:50:34,055 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:50:34,058 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:50:40,573 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:50:40,575 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:50:46,859 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:50:46,861 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:50:52,599 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:50:52,601 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 17:51:03,673 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 17:51:03,675 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 17:51:17,856 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 17:51:17,859 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 17:51:17,861 root - INFO:WEBSCRAPPER: Ended getting Trending Videos
+2021-10-02 17:51:17,863 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 17:51:20,420 root - INFO:WEBSCRAPPER: Ended closing chrome driver successfully
+2021-10-02 17:51:20,422 root - INFO:WEBSCRAPPER: Ended Load_and_save_TrendingVideos function
+2021-10-02 17:51:20,424 root - INFO:{prefix} :Ending the main app
+2021-10-02 17:52:22,070 root - INFO:{prefix} :Starting the main app
+2021-10-02 17:52:22,074 root - INFO:WEBSCRAPPER: started Load_and_save_TrendingVideos function
+2021-10-02 17:52:22,077 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 17:52:22,077 WDM - INFO:
+
+2021-10-02 17:52:22,078 WDM - INFO:====== WebDriver manager ======
+2021-10-02 17:52:22,136 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 17:52:22,137 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 17:52:22,236 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 17:52:25,054 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 17:52:25,057 root - INFO:WEBSCRAPPER: started getting Trending Videos
+2021-10-02 17:52:31,580 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 17:52:34,965 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 17:52:34,967 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 17:52:34,968 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 17:52:34,972 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 17:52:34,975 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 17:52:34,977 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 17:52:34,981 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 17:52:34,984 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 17:52:34,987 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 17:52:42,456 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 17:52:42,462 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 17:52:42,465 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 17:52:42,471 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 17:52:42,473 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 17:52:42,475 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 17:52:42,478 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 17:52:44,945 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:52:51,006 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:52:51,008 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:52:56,977 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:52:56,979 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:53:03,026 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:53:03,028 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 17:53:08,646 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 17:53:08,649 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 17:53:16,318 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 17:53:16,320 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 17:53:29,744 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 17:53:29,746 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 17:53:29,748 root - INFO:WEBSCRAPPER: Ended getting Trending Videos
+2021-10-02 17:53:29,751 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 17:53:32,526 root - INFO:WEBSCRAPPER: Ended closing chrome driver successfully
+2021-10-02 17:53:32,528 root - INFO:WEBSCRAPPER: Ended Load_and_save_TrendingVideos function
+2021-10-02 17:53:32,529 root - INFO:{prefix} :Ending the main app
+2021-10-02 18:03:26,985 root - INFO:APP :Starting the main app
+2021-10-02 18:03:26,986 root - INFO:WEBSCRAPPER: started Load_and_save_TrendingVideos function
+2021-10-02 18:03:26,988 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 18:03:26,989 WDM - INFO:
+
+2021-10-02 18:03:26,990 WDM - INFO:====== WebDriver manager ======
+2021-10-02 18:03:27,040 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 18:03:27,040 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 18:03:27,181 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 18:03:30,724 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 18:03:30,726 root - INFO:WEBSCRAPPER: started getting Trending Videos
+2021-10-02 18:03:36,973 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 18:03:40,070 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:03:40,074 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:03:40,077 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:03:40,082 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:03:40,086 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:03:40,089 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:03:40,093 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:03:40,095 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:03:40,098 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:03:46,694 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:03:46,699 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:03:46,701 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:03:46,707 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:03:46,710 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:03:46,713 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:03:46,717 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 18:03:49,670 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:03:56,409 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:03:56,411 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:04:02,890 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:04:02,893 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:04:08,832 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:04:08,834 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:04:14,680 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:04:14,682 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 18:04:23,480 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 18:04:23,482 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 18:04:39,380 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 18:04:39,383 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 18:04:39,385 root - INFO:WEBSCRAPPER: Ended getting Trending Videos
+2021-10-02 18:04:39,388 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 18:04:41,903 root - INFO:WEBSCRAPPER: Ended closing chrome driver successfully
+2021-10-02 18:04:41,905 root - INFO:WEBSCRAPPER: Ended Load_and_save_TrendingVideos function
+2021-10-02 18:04:41,908 root - INFO:APP :Ending the main app
+2021-10-02 18:07:27,385 root - INFO:APP :Starting the main app
+2021-10-02 18:07:27,387 root - INFO:WEBSCRAPPER: started Load_and_save_TrendingVideos function
+2021-10-02 18:07:27,389 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 18:07:27,390 WDM - INFO:
+
+2021-10-02 18:07:27,391 WDM - INFO:====== WebDriver manager ======
+2021-10-02 18:07:27,445 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 18:07:27,445 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 18:07:27,546 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 18:07:30,221 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 18:07:30,224 root - INFO:WEBSCRAPPER: started getting Trending Videos
+2021-10-02 18:07:36,494 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 18:07:39,693 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:07:39,696 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:07:39,699 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:07:40,441 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:07:40,443 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:07:40,445 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:07:41,036 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:07:41,037 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:07:41,039 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:07:41,949 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:07:41,952 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:07:41,955 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:07:41,959 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:07:41,961 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:07:41,963 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:07:41,965 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:07:41,967 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:07:41,969 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:07:47,942 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:07:47,947 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:07:47,948 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:07:47,953 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:07:47,954 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:07:47,956 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:07:47,959 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 18:07:49,221 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:07:55,526 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:07:55,529 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:08:01,202 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:08:01,205 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:08:07,553 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:08:07,555 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:08:13,951 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:08:13,953 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 18:08:24,364 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 18:08:24,366 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 18:08:38,939 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 18:08:38,941 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 18:08:44,613 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:08:44,621 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:08:44,623 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:08:44,755 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:08:44,757 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:08:44,760 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:08:44,762 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 18:08:47,170 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:08:52,920 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:08:52,922 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:08:58,513 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:08:58,515 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:09:04,391 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:09:04,393 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:09:10,058 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:09:10,060 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 18:09:19,838 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 18:09:19,840 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 18:09:34,654 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 18:09:34,656 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 18:09:40,289 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:09:40,294 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:09:40,296 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:09:40,333 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:09:40,335 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:09:40,337 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:09:40,339 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 18:09:42,621 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:09:48,422 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:09:48,424 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:09:54,572 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:09:54,574 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:10:00,692 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:10:00,694 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:10:06,419 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:10:06,421 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:10:11,368 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:10:11,370 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 18:10:19,780 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 18:10:19,782 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 18:10:33,954 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 18:10:33,955 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 18:10:39,422 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:10:39,424 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:10:39,426 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:10:39,428 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:10:39,430 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:10:39,431 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:10:39,433 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 18:10:39,458 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:10:40,334 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:10:40,336 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:10:41,147 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:10:41,149 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:10:42,333 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:10:42,335 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:10:43,114 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:10:43,116 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 18:10:53,841 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 18:10:53,843 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 18:11:14,087 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 18:11:14,089 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 18:11:14,091 root - INFO:WEBSCRAPPER: Ended getting Trending Videos
+2021-10-02 18:11:14,093 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 18:11:16,896 root - INFO:WEBSCRAPPER: Ended closing chrome driver successfully
+2021-10-02 18:11:16,899 root - INFO:WEBSCRAPPER: Ended Load_and_save_TrendingVideos function
+2021-10-02 18:11:16,904 root - INFO:APP :Ending the main app
+2021-10-02 18:16:36,165 root - INFO:APP :Starting the main app
+2021-10-02 18:16:36,167 root - INFO:WEBSCRAPPER: started Load_and_save_TrendingVideos function
+2021-10-02 18:16:36,169 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 18:16:36,170 WDM - INFO:
+
+2021-10-02 18:16:36,171 WDM - INFO:====== WebDriver manager ======
+2021-10-02 18:16:36,224 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 18:16:36,225 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 18:16:36,373 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 18:16:39,466 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 18:16:39,470 root - INFO:WEBSCRAPPER: started getting Trending Videos
+2021-10-02 18:16:45,982 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 18:16:48,716 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:16:48,719 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:16:48,722 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:16:49,616 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:16:49,620 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:16:49,622 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:16:50,526 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:16:50,528 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:16:50,531 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:16:51,445 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:16:51,448 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:16:51,451 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:16:51,454 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:16:51,457 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:16:51,461 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:16:51,468 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:16:51,471 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:16:51,476 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:16:58,162 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:16:58,169 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:16:58,172 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:16:58,178 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:16:58,183 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:16:58,188 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:16:58,191 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 18:17:00,696 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:17:06,248 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:17:06,251 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:17:12,157 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:17:12,160 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:17:18,288 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:17:18,290 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:17:23,586 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:17:23,588 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 18:17:31,591 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 18:17:31,593 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 18:17:46,220 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 18:17:46,222 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 18:17:46,224 root - INFO:WEBSCRAPPER: Ended getting Trending Videos
+2021-10-02 18:17:46,229 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 18:17:48,912 root - INFO:WEBSCRAPPER: Ended closing chrome driver successfully
+2021-10-02 18:17:48,914 root - INFO:WEBSCRAPPER: Ended Load_and_save_TrendingVideos function
+2021-10-02 18:17:48,916 root - INFO:APP :Ending the main app
+2021-10-02 18:23:35,499 root - INFO:APP :Starting the main app
+2021-10-02 18:23:35,501 root - INFO:WEBSCRAPPER: started Load_and_save_TrendingVideos function
+2021-10-02 18:23:35,503 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 18:23:35,504 WDM - INFO:
+
+2021-10-02 18:23:35,505 WDM - INFO:====== WebDriver manager ======
+2021-10-02 18:23:35,559 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 18:23:35,559 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 18:23:35,678 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 18:23:38,581 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 18:23:38,583 root - INFO:WEBSCRAPPER: started getting Trending Videos
+2021-10-02 18:23:45,154 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 18:23:49,105 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:23:49,108 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:23:49,110 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:23:49,873 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:23:49,876 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:23:49,878 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:23:50,413 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:23:50,415 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:23:50,417 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:23:51,118 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:23:51,121 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:23:51,123 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:23:51,127 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:23:51,129 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:23:51,132 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:23:51,135 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:23:51,137 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:23:51,139 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:23:57,304 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:23:57,308 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:23:57,309 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:23:57,313 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:23:57,315 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:23:57,317 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:23:57,319 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 18:24:00,048 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:24:05,863 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:24:05,866 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:24:11,627 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:24:11,630 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:24:17,863 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:24:17,865 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:24:23,713 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:24:23,715 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 18:24:30,708 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 18:24:30,710 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 18:24:43,381 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 18:24:43,383 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 18:24:43,385 root - INFO:WEBSCRAPPER: Ended getting Trending Videos
+2021-10-02 18:24:43,391 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 18:24:49,305 root - INFO:WEBSCRAPPER: Ended closing chrome driver successfully
+2021-10-02 18:24:49,306 root - INFO:WEBSCRAPPER: Ended Load_and_save_TrendingVideos function
+2021-10-02 18:24:49,308 root - INFO:APP :Ending the main app
+2021-10-02 18:25:39,263 root - INFO:APP :Starting the main app
+2021-10-02 18:25:39,265 root - INFO:WEBSCRAPPER: started Load_and_save_TrendingVideos function
+2021-10-02 18:25:39,267 root - INFO:WEBSCRAPPER: started creating chrome driver
+2021-10-02 18:25:39,267 WDM - INFO:
+
+2021-10-02 18:25:39,268 WDM - INFO:====== WebDriver manager ======
+2021-10-02 18:25:39,314 WDM - INFO:Current google-chrome version is 94.0.4606
+2021-10-02 18:25:39,315 WDM - INFO:Get LATEST driver version for 94.0.4606
+2021-10-02 18:25:39,430 WDM - INFO:Driver [C:\Users\motheesh jay\.wdm\drivers\chromedriver\win32\94.0.4606.61\chromedriver.exe] found in cache
+2021-10-02 18:25:42,216 root - INFO:WEBSCRAPPER: Ended creating chrome driver
+2021-10-02 18:25:42,217 root - INFO:WEBSCRAPPER: started getting Trending Videos
+2021-10-02 18:25:48,941 root - INFO:WEBSCRAPPER: started getting top 5 hashtags function
+2021-10-02 18:25:51,291 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:25:51,294 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:25:51,297 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:25:52,334 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:25:52,338 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:25:52,341 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:25:53,152 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:25:53,154 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:25:53,156 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:25:53,920 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:25:53,923 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:25:53,926 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:25:54,943 root - INFO:WEBSCRAPPER: starting the strip html function
+2021-10-02 18:25:54,945 root - INFO:WEBSCRAPPER: Ending the strip html function
+2021-10-02 18:25:54,947 root - INFO:WEBSCRAPPER: Ended getting top 5 hashtags function
+2021-10-02 18:25:54,950 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:25:54,952 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:25:54,954 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:25:54,956 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:25:54,958 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:25:54,960 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:26:11,806 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:26:11,812 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:26:11,816 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:26:11,821 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:26:11,824 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:26:11,827 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:26:11,830 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 18:26:14,140 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:26:18,809 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:26:18,811 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:26:24,656 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:26:24,658 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:26:31,004 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:26:31,005 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:26:36,631 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:26:36,632 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 18:26:44,110 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 18:26:44,112 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 18:26:57,454 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 18:26:57,456 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 18:27:03,166 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:27:03,172 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:27:03,175 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:27:03,179 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:27:03,181 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:27:03,182 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:27:03,184 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 18:27:06,481 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:27:12,782 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:27:12,784 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:27:19,517 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:27:19,518 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:27:24,951 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:27:24,952 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:27:30,572 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:27:30,574 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 18:27:41,868 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 18:27:41,871 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 18:27:56,523 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 18:27:56,526 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 18:28:02,016 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:28:02,021 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:28:02,022 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:28:02,026 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:28:02,028 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:28:02,031 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:28:02,033 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 18:28:04,397 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:28:09,676 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:28:09,677 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:28:15,434 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:28:15,436 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:28:20,469 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:28:20,471 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:28:26,060 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:28:26,061 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 18:28:34,986 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 18:28:34,988 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 18:28:47,875 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 18:28:47,877 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 18:28:53,318 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:28:53,322 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:28:53,324 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:28:53,328 root - INFO:WEBSCRAPPER: Ended clear directory function
+2021-10-02 18:28:53,330 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:28:53,332 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:28:53,334 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 18:28:55,250 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:29:00,733 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:29:00,735 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:29:06,559 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:29:06,561 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:29:11,698 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:29:11,700 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:29:17,169 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:29:17,171 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 18:29:26,584 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 18:29:26,588 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 18:29:39,228 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 18:29:39,229 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 18:29:44,850 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:29:44,852 root - INFO:WEBSCRAPPER: started clear directory function
+2021-10-02 18:29:44,854 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:29:44,857 root - INFO:WEBSCRAPPER: Ended create folder function
+2021-10-02 18:29:44,858 root - INFO:WEBSCRAPPER: started create folder function
+2021-10-02 18:29:44,862 root - INFO:WEBSCRAPPER: Ended create folder function
+2021-10-02 18:29:44,864 root - INFO:WEBSCRAPPER: started get posts function
+2021-10-02 18:29:47,307 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:29:54,008 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:29:54,009 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:29:59,599 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:29:59,601 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:30:05,318 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:30:05,320 root - INFO:WEBSCRAPPER: starting taking screenshots 
+2021-10-02 18:30:11,636 root - INFO:WEBSCRAPPER: Ending the get screenshot function successfully
+2021-10-02 18:30:11,638 root - INFO:WEBSCRAPPER: started making movie from images
+2021-10-02 18:30:25,116 root - INFO:WEBSCRAPPER: Ended making movie from images
+2021-10-02 18:30:25,118 root - INFO:WEBSCRAPPER: started adding audio to video
+2021-10-02 18:31:09,450 root - INFO:WEBSCRAPPER: Ended adding audio to video
+2021-10-02 18:31:09,452 root - INFO:WEBSCRAPPER: Ended get posts function
+2021-10-02 18:31:09,454 root - INFO:WEBSCRAPPER: Ended getting Trending Videos
+2021-10-02 18:31:09,458 root - INFO:WEBSCRAPPER: started closing chrome driver
+2021-10-02 18:31:12,758 root - INFO:WEBSCRAPPER: Ended closing chrome driver successfully
+2021-10-02 18:31:12,761 root - INFO:WEBSCRAPPER: Ended Load_and_save_TrendingVideos function
+2021-10-02 18:31:12,763 root - INFO:APP :Ending the main app
